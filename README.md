@@ -1,6 +1,7 @@
 # Craft Speed Booster
 
 A lightweight mod for Satisfactory that progressively increases manual crafting speed the longer you craft continuously — without breaking game balance.
+![Craft Speed Booster](images/progression.png)
 
 ## How it works
 
