@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "Craft Speed Booster",
+	"Description": "Progressively speeds up manual crafting the longer you craft continuously. Inspired by FasterManualCraftingRedux by Robb — rebuilt from scratch for Satisfactory 1.2 with per-workbench streak tracking, configurable tiers, and a live HUD.",
+	"Category": "Gameplay",
+	"CreatedBy": "Cfoxy",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ManualCraftingAcceleratorLight",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"BuiltInInitialFeatureState": "Active",
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.12.0"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"GameVersion": ">=491125"
+}
